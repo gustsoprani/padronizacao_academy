@@ -33,7 +33,7 @@ Respostas da atividade:
 6. Quais evidências comprovam que foi testado? O check verde do Actions e as marcações lá no PR.
 7. Como reverter alteração problemática? Pelo próprio GitHub, usando o botão de revert no PR que foi mergeado.
 
-## Evidências
+Evidências
 
 Execução do pipeline com sucesso na aba Actions:
 ![Actions](images/actions.png)
